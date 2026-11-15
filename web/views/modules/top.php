@@ -1,1 +1,1 @@
-<div class="announcement-bar"><div class="container d-flex justify-content-center justify-content-md-between"><span><i class="fas fa-code me-2"></i>Diseño y desarrollo web para negocios que quieren crecer</span><a href="mailto:alanpechmiss@gmail.com">alanpechmiss@gmail.com</a></div></div>
+<div class="store-promo"><div class="container"><span>Envíos a todo México</span><span class="d-none d-md-inline">•</span><span>Soporte especializado para tu equipo</span><a href="mailto:alanpechmiss@gmail.com">Atención a clientes</a></div></div>
