@@ -1,0 +1,19 @@
+# Dependencias instaladas localmente
+**/vendor/
+node_modules/
+recursos/
+
+# Configuración local y credenciales
+.env
+.env.*
+!.env.example
+api/models/connection.php
+
+# Archivos generados y cargas locales
+*.log
+uploads/
+web/img/products/
+
+# Respaldos o volcados completos de base de datos
+*.sql
+!database/schema/*.sql
